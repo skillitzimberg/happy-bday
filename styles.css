@@ -25,8 +25,8 @@ section {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  width: 95vw;
-  height: 95vh;
+  width: 99vw;
+  height: 99vh;
   margin: 1rem auto;
   border-radius: 1rem;
 }
